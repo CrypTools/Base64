@@ -1,8 +1,13 @@
 # Base64
+<p align="center">
 
 <img height="128" src="https://cryptools.github.io/img/base64.svg">
-
- ![](https://cryptools.github.io/img/status/implemented.svg) ![](https://img.shields.io/travis/CrypTools/Base64.svg) ![](https://img.shields.io/github/license/CrypTools/Base64.svg) ![](https://img.shields.io/github/contributors/CrypTools/Base64.svg)
+<br>
+<img src="https://cryptools.github.io/img/status/implemented.svg" >
+<img src="https://img.shields.io/travis/CrypTools/Base64.svg" >
+<img src="https://img.shields.io/github/license/CrypTools/Base64.svg" >
+<img src="https://img.shields.io/github/contributors/CrypTools/Base64.svg" >
+</p>
 
 A way to encode binary data in an ASCII string.
 
@@ -33,6 +38,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 - **Lucas Gruwez** - _Python Implementation_ - [@lucasgruwez](https://github.com/lucasgruwez)
+- **Arthur Guiot** - _JS + Swift Implementation_ - [@arguiot](https://github.com/arguiot)
 
 See also the list of [contributors](https://github.com/CrypTools/Base64/contributors) who participated in this project.
 
