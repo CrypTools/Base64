@@ -20,8 +20,8 @@ A way to encode binary data in an ASCII string.
 
 |  Language  |           Encrypt           |           Decrypt           |
 |------------|-----------------------------|-----------------------------|
-<!-- | Javascript | [encrypt.js](js/encrypt.js) | [decrypt.js](js/decrypt.js) | --> <!--Work in progress-->
 |   Python   | [encrypt.py](py/encrypt.py) | [decrypt.py](py/decrypt.py) |
+<!-- | Javascript | [encrypt.js](js/encrypt.js) | [decrypt.js](js/decrypt.js) | --> <!--Work in progress-->
 <!-- |   Swift    | [lib.swift](swift/lib.swift)| [lib.swift](swift/lib.swift)| -->
 
 ## Running the tests
