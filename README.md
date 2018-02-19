@@ -1,14 +1,8 @@
 # Base64
-<p align="center">
-<!-- replace image by project Image -->
-<!-- <img height="128" src="https://cryptools.github.io/img/bit-shift.svg"> -->
-</p>
-<p align="center">
-<img src="https://cryptools.github.io/img/status/implemented.svg">
-<img src="https://img.shields.io/travis/CrypTools/Base64.svg">
-<img src="https://img.shields.io/github/license/CrypTools/Base64.svg">
-<img src="https://img.shields.io/github/contributors/CrypTools/Base64.svg">
-</p>
+
+<img height="128" src="https://cryptools.github.io/img/base64.svg">
+
+ ![](https://cryptools.github.io/img/status/implemented.svg) ![](https://img.shields.io/travis/CrypTools/Base64.svg) ![](https://img.shields.io/github/license/CrypTools/Base64.svg) ![](https://img.shields.io/github/contributors/CrypTools/Base64.svg)
 
 A way to encode binary data in an ASCII string.
 
@@ -18,11 +12,11 @@ A way to encode binary data in an ASCII string.
 
 ## Implementations
 
-|  Language  |           Encrypt           |           Decrypt           |
-|------------|-----------------------------|-----------------------------|
-|   Python   | [encrypt.py](py/encrypt.py) | [decrypt.py](py/decrypt.py) |
-<!-- | Javascript | [encrypt.js](js/encrypt.js) | [decrypt.js](js/decrypt.js) | --> <!--Work in progress-->
-<!-- |   Swift    | [lib.swift](swift/lib.swift)| [lib.swift](swift/lib.swift)| -->
+Language   | Encrypt                      | Decrypt
+---------- | ---------------------------- | ----------------------------
+Javascript | [encrypt.js](js/encrypt.js)  | [decrypt.js](js/decrypt.js)  |
+Python     | [encrypt.py](py/encrypt.py)  | [decrypt.py](py/decrypt.py)
+Swift      | [lib.swift](swift/lib.swift) | [lib.swift](swift/lib.swift)
 
 ## Running the tests
 
@@ -38,10 +32,12 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Lucas Gruwez** - *Python Implementation* - [@lucasgruwez](https://github.com/lucasgruwez)
+- **Lucas Gruwez** - _Python Implementation_ - [@lucasgruwez](https://github.com/lucasgruwez)
 
 See also the list of [contributors](https://github.com/CrypTools/Base64/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the
+
+<license> file for details</license>
