@@ -1,0 +1,28 @@
+{
+  "name": "@cryptoolsorg/base64",
+  "version": "1.0.0",
+  "description": "A base 64 implementation in several languages.",
+  "main": "js/lib.js",
+  "scripts": {
+    "test": "eye"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrypTools/Base64.git"
+  },
+  "keywords": [
+    "cryptography",
+    "base64",
+    "cipher",
+    "cryptools"
+  ],
+  "author": "CrypTools",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrypTools/Base64/issues"
+  },
+  "homepage": "https://github.com/CrypTools/Base64#readme",
+  "devDependencies": {
+    "eye.js": "^1.1.0"
+  }
+}

@@ -24,6 +24,12 @@ PHP        | [encrypt.php](php/encrypt.php) | [decrypt.php](php/decrypt.php)
 Python     | [encrypt.py](py/encrypt.py)    | [decrypt.py](py/decrypt.py)
 Swift      | [lib.swift](swift/lib.swift)   | [lib.swift](swift/lib.swift)
 
+### Package managers
+**NPM:**
+```bash
+npm i @cryptoolsorg/base64
+```
+
 ## Running the tests
 
 Tests are automatically handled by [Travis CI](https://travis-ci.org/CrypTools/Base64/).
