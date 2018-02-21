@@ -44,8 +44,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-- **Lucas Gruwez** - _Python Implementation_ - [@lucasgruwez](https://github.com/lucasgruwez)
-- **Arthur Guiot** - _JS + Swift Implementation_ - [@arguiot](https://github.com/arguiot)
+Made with ❤️ at CrypTools.
 
 See also the list of [contributors](https://github.com/CrypTools/Base64/contributors) who participated in this project.
 
